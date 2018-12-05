@@ -1,5 +1,7 @@
 # hexaedro.xyz
 
+Website for Pedro Vaz's Hexaedro project, circa 2012.
+
 ## Deploying
 
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
