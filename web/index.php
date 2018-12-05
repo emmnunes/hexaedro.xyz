@@ -1,4 +1,4 @@
-<?php 
+<?php
 if (!isSet($locale)) $locale = "en_GB";
 if (isSet($_GET["locale"])) $locale = $_GET["locale"];
 
@@ -6,7 +6,7 @@ $currency = $locale;
 putenv("LC_ALL=$locale");
 setlocale(LC_ALL, $locale . ".UTF-8");
 setlocale(LC_MONETARY, $currency);
-bindtextdomain("messages", "./locale");
+bindtextdomain("messages", "/locale/");
 textdomain("messages"); ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -41,7 +41,7 @@ textdomain("messages"); ?>
 
 <body>
 	<div class="loading"></div>
-    
+
 	<div class="container">
 
     	<div id="container-wrapper">
@@ -51,19 +51,19 @@ textdomain("messages"); ?>
 			  _gaq.push(['_setAccount', 'UA-38825763-1']);
 			  _gaq.push(['_setDomainName', 'hexaedro.eu']);
 			  _gaq.push(['_trackPageview']);
-			
+
 			  (function() {
 				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			  })();
-			
+
 			</script>
             <div class="background preload" id="background"></div>
             <div class="animals preload" id="animals"></div>
-            
+
             <div class="content" id="content" onselectstart=" return false">
-                    
+
                 <div class="menu">
                     <!-- ONE -->
                     <div class="item presskit">
@@ -101,7 +101,7 @@ textdomain("messages"); ?>
                             <a href="makingof.php?locale=<?php echo($locale); ?>"><img src="img/<?php echo _("makingof.png"); ?>" alt="<?php echo _("Making Of"); ?>" class="preload" /></a>
                         </div>
                     </div>
-                    
+
                     <!-- TWO -->
                     <div class="item presskit">
                         <div class="hexa preload">
@@ -138,7 +138,7 @@ textdomain("messages"); ?>
                             <a href="makingof.php?locale=<?php echo($locale); ?>"><img src="img/<?php echo _("makingof.png"); ?>" alt="<?php echo _("Making Of"); ?>" class="preload" /></a>
                         </div>
                     </div>
-                    
+
                     <!-- THREE -->
                     <div class="item presskit">
                         <div class="hexa preload">
@@ -175,25 +175,25 @@ textdomain("messages"); ?>
                             <a href="makingof.php?locale=<?php echo($locale); ?>"><img src="img/<?php echo _("makingof.png"); ?>" alt="<?php echo _("Making Of"); ?>" class="preload" /></a>
                         </div>
                     </div>
-                    
+
                 </div>
-                    
+
                 <div class="signature">
                     <p><?php echo _("Know thyself and thou shalt know<br />
                     the universe and the gods.<br />
                     Man is the measurement for all things."); ?></p>
                 </div>
-                
+
                 <div class="homelang">
                     <a <?php if($locale=="pt_PT") echo("class=\"selected\""); ?> href="index.php?locale=pt_PT">PRT</a></a>
                     <a <?php if($locale=="en_GB") echo("class=\"selected\""); ?> href="index.php?locale=en_GB">ENG</a></a>
                 </div>
             </div>
-            
+
 		</div>
-        
+
     </div>
-    
+
 	<div class="head">
     	<div class="goback">
         	<div class="cat-icon">
@@ -204,12 +204,12 @@ textdomain("messages"); ?>
             </div>
 		</div>
     </div>
-            
+
     <div class="page">
-        
+
     </div>
-    
-  
+
+
 </body>
 
 <script src='js/base_packaged.js' type='text/javascript'></script>
