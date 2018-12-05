@@ -6,7 +6,7 @@ $currency = $locale;
 putenv("LC_ALL=$locale");
 setlocale(LC_ALL, $locale . ".UTF-8");
 setlocale(LC_MONETARY, $currency);
-bindtextdomain("messages", "/locale/");
+bindtextdomain("messages", "./locale");
 textdomain("messages"); ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
