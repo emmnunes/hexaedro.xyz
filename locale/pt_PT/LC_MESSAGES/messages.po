@@ -1,0 +1,1001 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eduardo Nunes - Accounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-26 20:57-0000\n"
+"PO-Revision-Date: 2013-02-26 20:58-0000\n"
+"Last-Translator: Eduardo Nunes <ed@eduardonunes.me>\n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\Program Files (x86)\\Ampps\\www\\hexaedro\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: credits.php:16 credits.php:118 credits.php:206 gallery.php:141
+#: hexaedro.php:203 index.php:72 index.php:109 index.php:146 log.php:90
+#: makingof.php:209 press.php:128 trailer.php:120
+msgid "Credits"
+msgstr "Créditos"
+
+#: credits.php:79
+msgid "About"
+msgstr "Sobre"
+
+#: credits.php:80
+msgid ""
+"Hexaedro is an immersive video-art installation, derived from Pedro Vaz's "
+"homonymous graduation project at the University of Coimbra Design & "
+"Multimedia master's degree."
+msgstr ""
+"Hexaedro é uma instalação de vídeo-arte imersiva, iniciada por Pedro Vaz no "
+"contexto da unidade curricular de Projecto/Estágio do Mestrado em Design e "
+"Multimédia da Universidade de Coimbra."
+
+#: credits.php:81
+msgid ""
+"Although the project is conceptually based on the corporate book Fight "
+"Gravity - An history of the concepts that radically changed our ways of "
+"thinking (Brandia Central, 2009), it is not sponsored by, nor affiliated to, "
+"any for-profit organization, and exclusively makes use of either original or "
+"licensed resources. As a result, the final artwork is itself licensed for "
+"use under a <a href=\"http://creativecommons.org/licenses/by-nc/3.0/deed."
+"en_US\" target=\"_blank\">Creative Commons Attribution-NonCommercial 3.0 "
+"Unported License</a>."
+msgstr ""
+"Ainda que se baseie conceptualmente no livro Fight Gravity - Uma história "
+"dos conceitos que mudaram radicalmente a nossa forma de pensar (Brandia "
+"Central, 2009), este projecto não é patrocinado por, nem está associado a, "
+"organizações com fins lucrativos, e apenas faz uso de material original ou "
+"devidamente licenciado. A obra final encontra-se abrangida por uma <a href="
+"\"http://creativecommons.org/licenses/by/3.0/\" target=\"_blank\">licença "
+"Creative Commons Attribution-NonCommercial 3.0 Unported</a>."
+
+#: credits.php:92
+msgid "About the Author"
+msgstr "Sobre o Autor"
+
+#: credits.php:93
+msgid ""
+"Born on the 15th of June 1985, in the Portuguese city of Coimbra, Pedro Vaz "
+"soon surrounds himself of transformation proccesses: of shape, figure and "
+"senses. At the age of 15 dreams of doing comic books, and at 17 of being an "
+"artist. From then on, he starts experimenting with graphic design, "
+"illustration, animation and moviemaking. In 2009, he's awarded, along with "
+"the Nefasto collective, the Young Portuguese Director award at the Cinanima "
+"film festival. In 2010, he joins the University of Coimbra's Design & "
+"Multimedia master's degree, where he becomes even more familiar with motion "
+"design, all the while gaining professional experience in branding, editorial "
+"design, video production and illustration. He sees motion design as the "
+"ultimate canvas for his creative ambitions."
+msgstr ""
+"Pedro Vaz nasce a 15 de Junho de 1985 em Coimbra. Desde cedo se rodeia dos "
+"processos de transformação: da forma, da figura e do sentido. Aos 15 anos "
+"quer desenhar BD, aos 17 ser artista plástico. Dai para a frente cria "
+"contacto com o design gráfico, ilustração, animação e cinema. Ingressa numa "
+"licenciatura em Design e Comunicação Multimédia na ESEC, onde cria com "
+"colegas o Colectivo Nefasto. Em 2009 são premiados como Realizadores no "
+"Cinanima. Segue em 2010 para o Mestrado em Design Multimédia na U.C, onde "
+"ganha maior contacto com o motion-design. Pelo caminho cria contacto "
+"profissional em brand design, design editorial, produção videográfica e "
+"ilustração. Vê no motion design a forma mais completa de aplicar as suas "
+"capacidades criativas."
+
+#: credits.php:104
+msgid "Powered by People"
+msgstr ""
+
+#: credits.php:105
+msgid ""
+"This is not a \"one man show\". This project would be impossible without the "
+"precious help of those that, from the start, believed Hexaedro could come to "
+"life – a vast team driven by friendship and the sharing of a will: to do "
+"more with less. I am deeply grateful to all of you, especially to a friend "
+"of mine without whom, unquestionably, none of this would be possible: "
+"Eduardo Nunes, to whom I am happy to return all of the help and, more "
+"importantly, the friendship! Not less important: Maria de Lurdes, José Vaz, "
+"João Góis, Tiago Andrade, José Monsanto, Ana Baptista, Tiago Ribeiro, Daniel "
+"Vaz, Filipe Pires, Nuno Rodrigues, Fernanda Antunes, Miguel Soares, João "
+"Bicker, Paulo Gama, Pedro Casaleiro, Carlota Simões, Gilberto Pereira, José "
+"Neto, Pedro Rodrigues, Ana Rosa, Rui Valente and Elisabete Maia."
+msgstr ""
+"Isto não é um \"one man show\". Este projecto seria impensável sem a "
+"preciosa ajuda daqueles que, desde o início, acreditaram que o Hexaedro "
+"poderia tomar forma – uma grande equipa, guiada pela amizade e uma vontade "
+"comum: fazer mais, com menos. Estou profundamente grato a todos, em "
+"particular a um amigo sem o qual, inquestionavelmente, nada disto teria sido "
+"possível: Eduardo Nunes, a quem retribuo toda a ajuda e, acima de tudo, "
+"amizade! Não menos importantes: Maria de Lurdes, José Vaz, João Góis, Tiago "
+"Andrade, José Monsanto, Ana Baptista, Tiago Ribeiro, Daniel Vaz, Filipe "
+"Pires, Nuno Rodrigues, Fernanda Antunes, Miguel Soares, João Bicker, Paulo "
+"Gama, Pedro Casaleiro, Carlota Simões, Gilberto Pereira, José Neto, Pedro "
+"Rodrigues, Ana Rosa, Rui Valente e Elisabete Maia."
+
+#: credits.php:119
+msgid ""
+"To ensure a seamless video experience, the following credits have been "
+"omitted from the final artwork:"
+msgstr ""
+"Para assegurar a integridade da obra, os seguintes créditos foram omitidos "
+"do vídeo final:"
+
+#: credits.php:123
+msgid "Written, directed and edited by"
+msgstr "Escrito, dirigido e produzido por"
+
+#: credits.php:126
+msgid "Supervised by"
+msgstr "Supervisão de"
+
+#: credits.php:129
+msgid "Image Shooting by"
+msgstr "Gravação de Vídeo"
+
+#: credits.php:132
+msgid "Technical Support by"
+msgstr "Apoio Técnico"
+
+#: credits.php:135
+msgid "Web Development"
+msgstr "Desenvolvimento Web"
+
+#: credits.php:138
+msgid "Institutional Support"
+msgstr "Apoios Institucionais"
+
+#: credits.php:146
+msgid "References and Resources"
+msgstr "Referências e Recursos"
+
+#: credits.php:158
+msgid ""
+"Considering the high number of references used in the project, the previous "
+"list includes only the most relevant."
+msgstr ""
+"Tendo em consideração a quantidade de referências usadas no projecto, esta "
+"lista apresenta apenas as mais relevantes."
+
+#: credits.php:169
+msgid "Contacts"
+msgstr "Contactos"
+
+#: credits.php:170
+msgid ""
+"Please feel free to send any questions you may have through to <a href="
+"\"http://log.hexaedro.eu/ask\" target=\"_blank\">our tumblr</a>, or just get "
+"in touch directly with Pedro using any of the following contacts:"
+msgstr ""
+"Podes submeter perguntas directamente ao criador do projecto através do <a "
+"href=\"http://log.hexaedro.eu/ask\" target=\"_blank\">tumblr do projecto</"
+"a>, ou entrar directamente em contacto através dos seguintes contactos :"
+
+#: credits.php:181
+msgid "Sponsors"
+msgstr "Apoios"
+
+#: credits.php:200 gallery.php:135 hexaedro.php:197 log.php:84
+#: makingof.php:203 press.php:122 trailer.php:114
+msgid "Hexaedro"
+msgstr "Hexaedro"
+
+#: credits.php:201 gallery.php:136 hexaedro.php:198 index.php:82 index.php:119
+#: index.php:156 log.php:85 makingof.php:204 press.php:123 trailer.php:16
+#: trailer.php:115
+msgid "Trailer"
+msgstr "Trailer"
+
+#: credits.php:202 gallery.php:16 gallery.php:137 hexaedro.php:199
+#: index.php:87 index.php:124 index.php:161 log.php:86 makingof.php:205
+#: press.php:124 trailer.php:116
+msgid "Gallery"
+msgstr "Galeria"
+
+#: credits.php:203 gallery.php:138 hexaedro.php:200 index.php:92 index.php:129
+#: index.php:166 log.php:87 makingof.php:16 makingof.php:206 press.php:125
+#: trailer.php:117
+msgid "Making Of"
+msgstr "Making Of"
+
+#: credits.php:204 gallery.php:139 hexaedro.php:201 index.php:67 index.php:104
+#: index.php:141 log.php:16 log.php:88 makingof.php:207 press.php:126
+#: trailer.php:118
+msgid "Log"
+msgstr "Log"
+
+#: credits.php:205 gallery.php:140 hexaedro.php:202 index.php:62 index.php:99
+#: index.php:136 log.php:89 makingof.php:208 press.php:16 press.php:127
+#: trailer.php:119
+msgid "Press Kit"
+msgstr "Press Kit"
+
+#: credits.php:227 gallery.php:162 hexaedro.php:224 log.php:111
+#: makingof.php:230 press.php:149 trailer.php:141
+msgid "Project by"
+msgstr "Projecto de"
+
+#: credits.php:228 gallery.php:163 hexaedro.php:225 log.php:112
+#: makingof.php:231 press.php:150 trailer.php:142
+msgid "Web development by"
+msgstr "Desenvolvimento Web:"
+
+#: gallery.php:79 gallery.php:83 gallery.php:87
+msgid "Simulated setup"
+msgstr "Simulação da instalação"
+
+#: gallery.php:100 gallery.php:104 gallery.php:108 gallery.php:112
+#: gallery.php:116 gallery.php:120
+msgid "Promotional poster"
+msgstr "Cartaz promocional"
+
+#: hexaedro.php:16
+msgid "About the Project"
+msgstr "Sobre o Projecto"
+
+#: hexaedro.php:72
+msgid ""
+"Hexaedro is a 360º video installation, projected on the walls of an "
+"hexagonal prism. A video-based artwork centered in mankind evolution."
+msgstr ""
+"Hexaedro é uma instalação 360º, projectada nas paredes de um prisma "
+"hexagonal. Uma peça de vídeo-arte baseada na evolução do Homem."
+
+#: hexaedro.php:84
+msgid "The Humanist Concept"
+msgstr "O Conceito Humanista"
+
+#: hexaedro.php:85
+msgid ""
+"Hexaedro sums up the global concepts that have been determinant in makind's "
+"evolutional process. They are abstract concepts that can be found on the "
+"most distinctive areas, contributing for the human evolution, where "
+"mathematics plays the main role as a universal language system, making it "
+"fundamental for decoding the natural environment. These are abstract and "
+"omnipresent ideas that are based on four fundamental pillars: evolution, "
+"singularity, creativity and knowledge. These concepts connect and "
+"intertwine, creating a continuous chain of thought. From science to "
+"philosophy, from mathematics to history, they prove a unifying theory: the "
+"concept that \"everything is connected\"."
+msgstr ""
+"O projecto Hexaedro resume os conceitos globais determinantes no processo "
+"evolutivo da humanidade: conceitos abstractos, que podem ser encontrados nas "
+"áreas mais diversas, e cujos contributos para a evolução humana, na qual a "
+"matemática se assume como a linguagem universal por excelência, são "
+"inegáveis. Tratam-se de ideias abstractas e omnipresentes, baseadas em "
+"quatro pilares fundamentais: evolução, singularidade, criatividade e "
+"conhecimento. Estes conceitos unem-se e interligam-se, criando uma corrente "
+"de pensamento contínua. Da ciência à filosofia, da matemática à história, "
+"eles provam uma teoria unificadora: a ideia de que \"tudo se interliga\"."
+
+#: hexaedro.php:95
+msgid "Everything is Connected"
+msgstr ""
+
+#: hexaedro.php:104
+msgid "Evolution"
+msgstr "Evolução"
+
+#: hexaedro.php:106
+msgid "Growth"
+msgstr "Crescimento"
+
+#: hexaedro.php:107
+msgid "Metamorphosis"
+msgstr "Metamorfose"
+
+#: hexaedro.php:108
+msgid "Multiplication"
+msgstr "Multiplicação"
+
+#: hexaedro.php:109
+msgid "Life Cycle / Death"
+msgstr "Ciclo de Vida / Morte"
+
+#: hexaedro.php:110
+msgid "Past / Future"
+msgstr "Passado / Futuro"
+
+#: hexaedro.php:116
+msgid "Singularity"
+msgstr "Singularidade"
+
+#: hexaedro.php:118
+msgid "Singular / Plural"
+msgstr "Singular / Plural"
+
+#: hexaedro.php:119
+msgid "Individual / Society"
+msgstr "Individual / Sociedade"
+
+#: hexaedro.php:120
+msgid "Species / Element"
+msgstr "Espécie / Elemento"
+
+#: hexaedro.php:121
+msgid "Self-Knowledge"
+msgstr "Auto-Conhecimento"
+
+#: hexaedro.php:122
+msgid "Consciousness"
+msgstr "Consciência"
+
+#: hexaedro.php:128
+msgid "Creativity"
+msgstr "Criatividade"
+
+#: hexaedro.php:130
+msgid "Curiosity"
+msgstr "Curiosidade"
+
+#: hexaedro.php:131
+msgid "Transformation"
+msgstr "Transformação"
+
+#: hexaedro.php:132
+msgid "Domain"
+msgstr "Domínio"
+
+#: hexaedro.php:133
+msgid "Composition"
+msgstr "Composição"
+
+#: hexaedro.php:134
+msgid "Design"
+msgstr "Design"
+
+#: hexaedro.php:140
+msgid "Knowledge"
+msgstr "Conhecimento"
+
+#: hexaedro.php:142
+msgid "Share"
+msgstr "Partilha"
+
+#: hexaedro.php:143
+msgid "Transmission"
+msgstr "Transmissão"
+
+#: hexaedro.php:144
+msgid "Learning"
+msgstr "Aprendizagem"
+
+#: hexaedro.php:145
+msgid "Legacy"
+msgstr "Legado"
+
+#: hexaedro.php:146
+msgid "University"
+msgstr "Universidade"
+
+#: hexaedro.php:162
+msgid "Physical Structure"
+msgstr "Estrutura Física"
+
+#: hexaedro.php:163
+msgid ""
+"The Hexaedro project is, in its essence, a motion-design artwork, only with "
+"a peculiar set of technical features that make it an out-of-the-ordinary "
+"piece. The installation is actually a seamless, 360-degree video. Its "
+"presentation is, thus, inseparable from the physical structure that supports "
+"it, since the entire video has been produced and edited with the immersive "
+"qualities of the final installation in mind, which strives to draw the "
+"viewer into the piece itself, establishing a relationship of extreme "
+"proximity between the artwork and the viewer. These factors make this an "
+"immersive-design piece."
+msgstr ""
+"O projeto Hexaedro é na sua essência uma obra de motion-design, contudo as "
+"suas características técnicas fazem dele uma peça incomum. A obra é na "
+"verdade um vídeo circular, e não pode, pelas suas proporções e pela "
+"narrativa, ser exposta de forma planificada, num só plano de projeção. A sua "
+"exibição é assim indissociável da estrutura que a suporta, pois toda a "
+"edição e comportamento visual foi editado para que o espectador esteja "
+"dentro da obra, rodeado pela imagem, numa relação muito próxima entre obra e "
+"público. Por esta razão torna-se prioritariamente uma obra de immersive-"
+"design."
+
+#: hexaedro.php:171
+msgid "Arena Configuration"
+msgstr "Configuração da Arena"
+
+#: hexaedro.php:172
+msgid ""
+"The hexagonal-shaped structure the project depends on consists of an arena "
+"of six, concentrically laid out projection screens, with a 4:3 display ratio "
+"each."
+msgstr ""
+"A estrutura hexagonal de que o projecto depende consiste numa arena de seis "
+"ecrãs de projecção concêntricos, cada um dos quais com uma proporção de "
+"imagem 4:3."
+
+#: hexaedro.php:174
+msgid "Isometric View"
+msgstr "Vista Isométrica"
+
+#: hexaedro.php:175
+msgid "Top View"
+msgstr "Vista de Topo"
+
+#: hexaedro.php:176
+msgid "Left View"
+msgstr "Vista Lateral"
+
+#: index.php:62 index.php:99 index.php:136
+msgid "presskit.png"
+msgstr "presskit_pt.png"
+
+#: index.php:67 index.php:104 index.php:141
+msgid "log.png"
+msgstr "log.png"
+
+#: index.php:72 index.php:109 index.php:146
+msgid "credits.png"
+msgstr "credits_pt.png"
+
+#: index.php:77 index.php:114 index.php:151
+msgid "hexaedro.png"
+msgstr "hexaedro.png"
+
+#: index.php:77 index.php:114 index.php:151
+msgid "About Hexaedro"
+msgstr "Sobre o Hexaedro"
+
+#: index.php:82 index.php:119 index.php:156
+msgid "trailer.png"
+msgstr "trailer.png"
+
+#: index.php:87 index.php:124 index.php:161
+msgid "gallery.png"
+msgstr "gallery_pt.png"
+
+#: index.php:92 index.php:129 index.php:166
+msgid "makingof.png"
+msgstr "makingof.png"
+
+#: index.php:173
+msgid ""
+"Know thyself and thou shalt know<br />\n"
+"                    the universe and the gods.<br />\n"
+"                    Man is the measurement for all things."
+msgstr ""
+
+#: log.php:75
+msgid "You can follow the project updates through our tumblr, at"
+msgstr "Podes acompanhar a evolução do projecto através do tumblr, em"
+
+#: makingof.php:81
+msgid "Production Process"
+msgstr "Processo de Produção"
+
+#: makingof.php:82
+msgid ""
+"While being essentially a video-based work, Hexaedro is not a traditional "
+"short film – despite the fact that its execution has gone through similar "
+"production processes. Completed in the course of six months, the piece has "
+"gone through several production stages: from research and script writing, to "
+"video capture, post-production and animation. The software setup used to "
+"produce the final piece consisted of Adobe Photoshop, Adobe Illustrator, "
+"Adobe After Effects, Maxon Cinema 4D and Sony Vegas."
+msgstr ""
+"Apesar de se qualificar como uma obra videográfica, não se trata de uma "
+"curta-metragem tipicamente narrativa, no entanto usa processos similares na "
+"elaboração dos conteúdos. Concebido em seis meses, o trabalho apresenta "
+"várias fazes de execução: desde a investigação, escrita de guião e "
+"storyboard, à produção pratica da captação de imagens, tratamento e animação "
+"de conteúdos. Digitalmente foi conseguido com recurso aos softwares: Adobe "
+"Photoshop, Adobe Illustrator, Adobe After Effects, Maxon Cinema 4D e Sony "
+"Vegas."
+
+#: makingof.php:89
+msgid "Research<br />and Writing"
+msgstr "Pesquisa<br />e Escrita"
+
+#: makingof.php:93
+msgid "Concept Art<br />and Storyboard"
+msgstr "Concept Art<br />e Storyboard"
+
+#: makingof.php:97
+msgid "Animating<br />and Editing"
+msgstr "Animação<br />e Edição"
+
+#: makingof.php:101
+msgid "Construction<br />and Assembly"
+msgstr "Construção<br />e Montagem"
+
+#: makingof.php:110
+msgid ""
+"Production was preceeded by a research process, which went through the main "
+"concepts behind the theory of evolution. This allowed the storyboard to take "
+"form, while providing valuable theoretical and visual resources, which would "
+"be employed at a later stage."
+msgstr ""
+"A execução é iniciada com o levantamento dos principais conceitos "
+"evolucionistas, a recolha das matériais, teóricas e gráficas, necessárias "
+"para o alinhamento narrativo e escrita do guião."
+
+#: makingof.php:130
+msgid ""
+"Having finished the script, all of the scenes were visually rehearsed. Both "
+"the tone and style of the movie were carefully tested, and validated through "
+"the use of quick sketches and concept-art."
+msgstr ""
+"Definido o guião, são estruturadas visualmente as cenas e a transição de "
+"elementos. O tom e o estilo visual do filme são ensaiados na arte-conceptual "
+"das principais cenas a integrar a obra."
+
+#: makingof.php:152
+msgid ""
+"Taking advantage of a vast array of graphical resources, the seven main "
+"scenes were produced and edited in a continuous, yet non-linear storyline. "
+"While some of the scenes are entirely computer-generated, others make use of "
+"live action video."
+msgstr ""
+"Recorrendo a um vasto leque de recursos gráficos, construiram-se as sete "
+"cenas de forma continua, mas não linear. Algumas cenas são inteiramente "
+"digitais e outras recorrem a captura de imagem real."
+
+#: makingof.php:174
+msgid ""
+"The projection setup was initially built at a smaller scale, for testing and "
+"concept-validation purposes, during the production proccess. A larger, real-"
+"scale prism was then built for public exhibition. The projection equipment "
+"consists of six Benq MX660 video projectors and two Matrox ThreeHead2go "
+"video cards."
+msgstr ""
+"A arena metálica de projecção conheceu duas versões, uma em escala reduzida, "
+"para ensaios durante o processo de edição, e a final, à escala real, "
+"construida para exposição pública. O equipamento de projecção é formado por "
+"seis projectores Benq MX660 e duas placas de video Matrox  ThreeHead2go."
+
+#: press.php:73
+msgid ""
+"\"The extension of any one sense alters the way we think and act, the way we "
+"perceive the world\""
+msgstr ""
+
+#: press.php:92
+msgid "A 360º immersive installation"
+msgstr "Uma instalação imersiva 360º"
+
+#: press.php:93
+msgid ""
+"Born out of a graduation project, at the University of Coimbra's Design & "
+"Multimedia master's degree, Hexaedro reflects its author's ambition to go "
+"beyond the traditional frontiers imposed by video: it's an immersive design "
+"installation, composed of six, sequentially contiguous projection walls, "
+"together forming an hexagonal prism, without a floor or a ceiling, on which "
+"a seamless 360º video is projected. The viewers are invited into the center "
+"of the structure, from where they're able to watch, from all directions, the "
+"unfolding of a concise history of mankind. The concentric setup, by putting "
+"the viewer right at the center of the piece, begins to unveil the work's "
+"central theme: a humanist overview of concepts relating to the evolution of "
+"mankind, as unique and social beings, as an individual and as species. It's "
+"a non-narrated, purely-visual art piece, that seeks to tell its tale "
+"exclusively through the power of images and universal symbology: the "
+"evolution of the species, the discovery of fire, the progress and "
+"achievemnts that make our species unique."
+msgstr ""
+"Nasce como projeto final de mestrado em Design Multimédia, na Universidade "
+"de Coimbra, a vontade de fazer do video algo que extrapole as barreiras "
+"convencionais que este meio apresenta. Pedro Vaz, então finalista, "
+"desenvolve o Hexaedro, uma peça cénica de Design Imersivo, que na sua "
+"composição forma uma arena hexagonal, um video panorâmico a 360 graus é "
+"projectado nas seis paredes da estrutura. Os espectadores são transportados "
+"para o seu interior, onde assistem de pé, ao desenlace da obra. A disposição "
+"concêntrica que faz do espectador interveniente, lança uma pista sobre o "
+"tema da obra: Uma visão humanista sobre os conceitos intrínsecos à evolução "
+"da humanidade, como ser singular e como colectivo social, como individuo e "
+"como espécie. É um vídeo sem narração, nem texto, que transmite pelo poder "
+"da imagem e de simbologia universal a escalada da vida: a evolução das "
+"espécies, descoberta do fogo, o progresso e os feitos que definem a nossa "
+"espécie como única."
+
+#: press.php:99
+msgid "DOWNLOAD PRESS KIT"
+msgstr "DESCARREGAR PRESS KIT"
+
+#: press.php:102
+msgid "Press release, in English and Portuguese"
+msgstr "Press release, em Português e Inglês"
+
+#: press.php:103
+msgid "Author biography"
+msgstr "Biografia do autor"
+
+#: press.php:104
+msgid "High resolution photos"
+msgstr "Fotos de alta resolução"
+
+#: press.php:105
+msgid "Technical project description"
+msgstr "Descrição técnica do projecto"
+
+#: trailer.php:98
+msgid "Synopsis"
+msgstr "Sinopse"
+
+#: trailer.php:99
+msgid ""
+"Hexaedro tells the tale of the concepts underlying the evolution of Man, as "
+"a social and unique being. From thought to practice, from the idea to the "
+"execution, the milestones that tell us \"everything is connected\". It's a "
+"story of abstract concepts, cornerstones of our Humanity: the Evolution of "
+"species, the individual's Singularity, the Creativity to shape our "
+"environment and the transmission of Knowledge."
+msgstr ""
+"Hexaedro é a história dos conceitos que sustentam a evolução do ser Humano, "
+"como ser social e como indivíduo único. Do pensamento à prática, da ideia à "
+"execução, os \"milestones\" que demonstram que \"everything is connected\". "
+"É a obra dos conceitos abstratos, tão basilares à Humanidade: a Evolução das "
+"espécies, a Singularidade do indivíduo, a Criatividade para moldar o meio e "
+"a transmissão de Conhecimento."
+
+#~ msgid ""
+#~ "Hexaedro is the result of an university project developed by Pedro Vaz, "
+#~ "who at that time was finishing his Master’s Degree in Design and "
+#~ "Multimedia, lectured at the University of Coimbra, in Portugal."
+#~ msgstr ""
+#~ "Hexaedro resulta de um projecto académico, desenvolvido por Pedro Vaz no "
+#~ "contexto do Mestrado em Design e Multimédia da Universidade de Coimbra."
+
+#~ msgid "Eduardo Nunes is"
+#~ msgstr "Eduardo Nunes &eacute;"
+
+#~ msgid "a Cross—Media Designer"
+#~ msgstr "Designer Multi—Meios"
+
+#~ msgid "Eduardo Nunes"
+#~ msgstr "Eduardo Nunes"
+
+#~ msgid "Identity + Website"
+#~ msgstr "Identidade + Website"
+
+#~ msgid "Around Media in 88 Days"
+#~ msgstr "Volta ao Media em 88 Dias"
+
+#~ msgid "Infographics"
+#~ msgstr "Infografia"
+
+#~ msgid "Self-Initiated Research"
+#~ msgstr "Projecto de Autor"
+
+#~ msgid "Self-Published Book"
+#~ msgstr "Publica&ccedil;&atilde;o Independente"
+
+#~ msgid "The Right to be Unhappy"
+#~ msgstr "O Direito &agrave; Infelicidade"
+
+#~ msgid "Stop-Motion Animation"
+#~ msgstr "Anima&ccedil;&atilde;o Stop-Motion"
+
+#~ msgid "Mental Health in Portugal"
+#~ msgstr "Sa&uacute;de Mental em Portugal"
+
+#~ msgid "On a Budget"
+#~ msgstr "Or&ccedil;amento de Estado"
+
+#~ msgid "Identity"
+#~ msgstr "Identidade"
+
+#~ msgid "a Student"
+#~ msgstr "Estudante"
+
+#~ msgid "a Teacher"
+#~ msgstr "Professor"
+
+#~ msgid "a Researcher"
+#~ msgstr "Investigador"
+
+#~ msgid "a Person"
+#~ msgstr "Humano"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "Around Media in 88 Days."
+#~ msgstr "Volta ao Media em 88 Dias."
+
+#~ msgid ""
+#~ "A visual representation of my personal relation with various media<br /"
+#~ ">over the course of a regular day."
+#~ msgstr ""
+#~ "Representação visual da minha relação pessoal com v&aacute;rios media<br /"
+#~ ">ao longo de um dia de semana, e durante o fim-de-semana."
+
+#~ msgid "Around Media<br />in 88 Days"
+#~ msgstr "Volta ao Media<br />em 88 Dias"
+
+#~ msgid "Self-Initiated Project"
+#~ msgstr "Projecto de Autor"
+
+#~ msgid "On-line Museum Catalogue"
+#~ msgstr "Espólio Digital"
+
+#~ msgid "Angola & Portugal"
+#~ msgstr "Angola e Portugal"
+
+#~ msgid "Mapping peripheral design."
+#~ msgstr "Design na periferia."
+
+#~ msgid "Self-Initiated Research Project"
+#~ msgstr "Projecto de Autor"
+
+#~ msgid "Unbrandable."
+#~ msgstr "Miss&atilde;o Imposs&iacute;vel."
+
+#~ msgid "Cross-Media Designer"
+#~ msgstr "Designer Multi-Meios"
+
+#~ msgid "No ladies wearing headsets."
+#~ msgstr "Alojamento com personalidade."
+
+#~ msgid ""
+#~ "How do you say reliable hosting and trustworthy support without stock "
+#~ "photo and crappy illustrations?"
+#~ msgstr ""
+#~ "Como comunicar alojamento Web de confian&ccedil;a, sem recorrer a "
+#~ "clich&eacute;s?"
+
+#~ msgid ""
+#~ "By bringing the volume down and speaking the same language as your "
+#~ "clients."
+#~ msgstr "Reduzindo o volume e falando a mesma linguagem que os clientes."
+
+#~ msgid "Web Hosting Company"
+#~ msgstr "Empresa de Alojamento Web"
+
+#~ msgid "United Kingdom"
+#~ msgstr "Reino Unido"
+
+#~ msgid "Colours. All of them."
+#~ msgstr "Cores. Todas as cores."
+
+#~ msgid "No tears shed."
+#~ msgstr "Sem l&aacute;grimas."
+
+#~ msgid "Nefasto – Design Collective"
+#~ msgstr "Colectivo Nefasto"
+
+#~ msgid "this guy"
+#~ msgstr "este Tipo"
+
+#~ msgid "Estimate"
+#~ msgstr "Or&ccedil;amento"
+
+#~ msgid "We're all set!"
+#~ msgstr "Est&aacute; tudo tratado!"
+
+#~ msgid "Estimate Accepted"
+#~ msgstr "Or&ccedil;amento Aceite"
+
+#~ msgid "Looking good, right?"
+#~ msgstr "Vamos a isso..."
+
+#~ msgid "Accept Estimate"
+#~ msgstr "Aceitar Or&ccedil;amento"
+
+#~ msgid "Get in touch!"
+#~ msgstr "Contacte-me"
+
+#~ msgid "Questions?"
+#~ msgstr "D&uacute;vidas?"
+
+#~ msgid "Download Estimate"
+#~ msgstr "Descarregar Or&ccedil;amento"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Description"
+#~ msgstr "Descri&ccedil;&atilde;o"
+
+#~ msgid "Rate"
+#~ msgstr "Taxa"
+
+#~ msgid "Hours"
+#~ msgstr "Horas"
+
+#~ msgid "Value"
+#~ msgstr "Valor"
+
+#~ msgid "Subtotal"
+#~ msgstr "Sub-total"
+
+#~ msgid "Tax"
+#~ msgstr "Imposto"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Awesome!"
+#~ msgstr "Aceitar Or&ccedil;amento"
+
+#~ msgid "Looks like you're happy with the estimate - great!"
+#~ msgstr "Tudo a postos para come&ccedil;armos a trabalhar!"
+
+#~ msgid ""
+#~ "Just one last tick in the box below, and I'll be ready to get working "
+#~ "immediately."
+#~ msgstr ""
+#~ "Agrade&ccedil;o apenas que confira o valor total uma &uacute;ltima vez, e "
+#~ "confirme de seguida."
+
+#~ msgid "You should really tick this box first..."
+#~ msgstr ""
+#~ "Por favor confirme abaixo que pretende aprovar este or&ccedil;amento"
+
+#~ msgid "I confirm that %s + taxes sounds fair"
+#~ msgstr "Confirmo que %s + IVA me parece justo"
+
+#~ msgid "You did the right thing!"
+#~ msgstr "&Eacute; um prazer poder trabalhar consigo!"
+
+#~ msgid ""
+#~ "I'll get back to you really soon, so we can take care of the final "
+#~ "details, before I get to work."
+#~ msgstr ""
+#~ "Entrarei em contacto consigo assim que poss&iacute;vel, para podermos "
+#~ "p&ocirc;r mais &agrave; obra quanto antes!"
+
+#~ msgid "Nevermind"
+#~ msgstr "Ainda n&atilde;o"
+
+#~ msgid "Yes, we're good to go!"
+#~ msgstr "Tudo a postos"
+
+#~ msgid "What's troubling you?"
+#~ msgstr "O que o preocupa?"
+
+#~ msgid "I was expecting to pay less for your services"
+#~ msgstr "Esperava pagar menos por este servi&ccedil;o"
+
+#~ msgid "I was hoping this could be ready sooner than that"
+#~ msgstr "Preciso do projecto conclu&iacute;do em menos tempo"
+
+#~ msgid ""
+#~ "The items described are incomplete, or are not the ones we discussed "
+#~ "earlier"
+#~ msgstr ""
+#~ "Os items descritos est&atilde;o incompletos, ou s&atilde;o diferentes do "
+#~ "acordado inicialmente"
+
+#~ msgid "I want to discuss something else with you..."
+#~ msgstr "Gostaria de discutir um outro assunto..."
+
+#~ msgid ""
+#~ "I'm sorry to know that, but I'm sure we can work something out. Let's "
+#~ "start right here..."
+#~ msgstr ""
+#~ "Lamento que o or&ccedil;amento apresentado n&atilde;o seja "
+#~ "satisfat&oacute;rio, mas estou seguro de que conseguiremos chegar a um "
+#~ "acordo..."
+
+#~ msgid "Deadline"
+#~ msgstr "Prazos"
+
+#~ msgid ""
+#~ "Would you be able to move the deadline further away, if the price went "
+#~ "down a notch?"
+#~ msgstr ""
+#~ "Estaria disposto a alargar o prazo de execu&ccedil;&atilde;o, em virtude "
+#~ "de uma redu&ccedil;&atilde;o no pre&ccedil;o?"
+
+#~ msgid "Deffinitely, this is not urgent"
+#~ msgstr "Sim, n&atilde;o tenho urg&ecirc;ncia"
+
+#~ msgid "Yes, but no more than a couple of weeks"
+#~ msgstr "Sim, mas n&atilde;o mais do que quinze dias"
+
+#~ msgid "Not really, it's kind of urgent"
+#~ msgstr "N&atilde;o, isto &eacute; urgente"
+
+#~ msgid "How should I get back to you?"
+#~ msgstr "Como prefere ser contactado?"
+
+#~ msgid "By e-mail"
+#~ msgstr "Por e-mail"
+
+#~ msgid "By phone"
+#~ msgstr "Por telefone"
+
+#~ msgid "I see you're in a hurry, so I won't take much of your time..."
+#~ msgstr ""
+#~ "Vejo que est&aacute; com pressa, portanto vamos directos ao assunto..."
+
+#~ msgid "When?"
+#~ msgstr "Quando?"
+
+#~ msgid "When exactly do you need this?"
+#~ msgstr "Qual a data limite para o projecto?"
+
+#~ msgid ""
+#~ "My bad! Would you care to explain what's wrong, so I can fix it ASAP?"
+#~ msgstr ""
+#~ "Mea culpa! Por favor indique as falhas que detectou, para que possam ser "
+#~ "revistas quanto antes..."
+
+#~ msgid "What's wrong?"
+#~ msgstr "Qual o problema?"
+
+#~ msgid "I see there's something you want to discuss... I'm all ears!"
+#~ msgstr ""
+#~ "Ao que vejo, h&aacute; algo que quer discutir comigo... Sou todo ouvidos!"
+
+#~ msgid "Do you want me to get back to you?"
+#~ msgstr "Deseja que o contacte de volta?"
+
+#~ msgid "All right!"
+#~ msgstr "Obrigado!"
+
+#~ msgid "Your message got here! I'll get in touch as soon as possible."
+#~ msgstr ""
+#~ "Recebi a sua mensagem! Entrarei em contacto assim que poss&iacute;vel!"
+
+#~ msgid "Uh-oh!"
+#~ msgstr "Ooops!"
+
+#~ msgid ""
+#~ "Something went wrong, and your message did not get here. Fortunately, "
+#~ "everything (including this error) was logged, and is safely stored in my "
+#~ "server. There's a slight chance I miss it, so please try again if I do "
+#~ "not get back to you in the next 48 hours. Thank you!"
+#~ msgstr ""
+#~ "Algo correu mal, e a sua mensagem n&atilde;o chegou ao meu e-mail. "
+#~ "Felizmente, tudo o que escreveu (assim como este erro) foi salvo neste "
+#~ "servidor! Contudo, uma vez que h&aacute; uma boa hip&oacute;tese de a "
+#~ "mensagem me escapar, agrade&ccedil;o que tente novamente, caso n&atilde;o "
+#~ "obtenha resposta nas pr&oacute;ximas 48 horas. Obrigado!"
+
+#~ msgid "Start Over"
+#~ msgstr "Voltar Atr&aacute;s"
+
+#~ msgid "Send"
+#~ msgstr "Enviar"
+
+#~ msgid "This estimate is protected"
+#~ msgstr "Este or&ccedil;amento encontra-se protegido"
+
+#~ msgid ""
+#~ "You are trying to reach an address that was probably meant for the client "
+#~ "only. If that's you, please follow the link provided to you by e-mail, or "
+#~ "get in touch, using one of the contacts above. Thanks!"
+#~ msgstr ""
+#~ "Est&aacute; a tentar aceder a um endere&ccedil;o destinado exclusivamente "
+#~ "ao cliente final. Se for voc&ecirc;, por favor siga o link enviado para o "
+#~ "seu e-mail, ou entre em contacto comigo, atrav&eacute;s de um dos meios "
+#~ "acima. Obrigado!"
+
+#~ msgid "If you didn't mean to accept this estimate, drop me a line."
+#~ msgstr "Se aceitou este or&ccedil;amento por engano, contacte-me."
+
+#~ msgid "How much?"
+#~ msgstr "Quanto?"
+
+#~ msgid "How much were you honestly expecting?"
+#~ msgstr "Qual o valor que esperava?"
+
+#~ msgid ""
+#~ "Total hours for all items billed hourly estimated. Actual working hours "
+#~ "may fluctuate."
+#~ msgstr ""
+#~ "Os valores totais para todos os servi&ccedil;os facturados &agrave; hora"
+
+#~ msgid ""
+#~ "Total hours for each service item are calculated according to the "
+#~ "complexity of the tasks it implies. Working hours are tracked through the "
+#~ "Toggl web service, and do not include time spent with communications, "
+#~ "accounting and project management. Final cost for all items billed hourly "
+#~ "may fluctuate."
+#~ msgstr ""
+#~ "Os valores hor&aacute;rios apresentados s&atilde;o estimados em "
+#~ "fun&ccedil;&atilde;o da complexidade das tarefas que implicam. As horas "
+#~ "de trabalho efectivo ser&atilde;o registadas atrav&eacute;s do "
+#~ "servi&ccedil;o Web Toggle, e n&atilde;o incluem per&iacute;odos de "
+#~ "comunica&ccedil;&atilde;o, contabilidade e gest&atilde;o de projectos, "
+#~ "inimput&aacute;veis ao cliente. O custo final para todos os servi&ccedil;"
+#~ "os facturados &agrave; hora poder&aacute; flutuar."
+
+#~ msgid "Alright, close this now!"
+#~ msgstr "Fechar"
